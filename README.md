@@ -2,6 +2,7 @@
 ---
 Nepal Engineering Council Registration Examination
 Electronics, Communication and Information Engineering (Code: AEiE)
+---
 Chapters 1–4: Fundamentals/Principles
 1. Basic Electrical and Electronics Engineering (AExE01)
 
@@ -170,7 +171,9 @@ Chapters 1–4: Fundamentals/Principles
     4.6 VHDL & IC Technology:
 
         Combinational/sequential design, pipelining in VHDL
+   
 Chapters 5–9: Engineering Application
+
 5. Concept of Computer Network and Network Security System (ACtE05)
 
     5.1 Introduction to Computer Networks and Physical Layer (ACtE0501):
