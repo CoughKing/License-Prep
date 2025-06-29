@@ -650,5 +650,7 @@ Chapter 10: Project Planning, Design, Implementation
         Nepal Engineering Council
 
         Acts and Regulations governing NEC
+
+    
 ---
 #Youtube Links With Syllabus
