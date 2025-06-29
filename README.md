@@ -2,13 +2,6 @@
 ---
 Nepal Engineering Council Registration Examination
 Electronics, Communication and Information Engineering (Code: AEiE)
----
-Chapters 1–4: Fundamentals/Principles of Electronics, Communication, and Information Technology
----
-Chapters 5–9: Application of Engineering Principles in Practice
----
-Chapter 10: Project Planning, Design and Implementation
----
 Chapters 1–4: Fundamentals/Principles
 1. Basic Electrical and Electronics Engineering (AExE01)
 
