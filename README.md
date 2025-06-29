@@ -4,7 +4,7 @@ Nepal Engineering Council Registration Examination
 Electronics, Communication and Information Engineering (Code: AEiE)
 ---
 Chapters 1–4: Fundamentals/Principles
-1. Basic Electrical and Electronics Engineering (AExE01)
+1. Basic Electrical and Electronics Engineering (AExE01) Link: "https://www.youtube.com/playlist?list=PL1v53s-6ltghJAzAVmz6f2GUvJz04bZK6"
 
     1.1 Basic Concepts:
 
@@ -60,7 +60,7 @@ Chapters 1–4: Fundamentals/Principles
 
         Tuned amplifiers, Op-amps
 
-2. Digital Logic and Microprocessor (AExE02)
+2. Digital Logic and Microprocessor (AExE02) Link: "https://www.youtube.com/playlist?list=PLpQQipWcxwt3b3GvO4EynQ2c-H4bXmIGc"
 
     2.1 Digital Logic:
 
@@ -102,7 +102,7 @@ Chapters 1–4: Fundamentals/Principles
 
         Interrupts, ISRs, processing
 
-3. Programming Language and Applications (ACtE03)
+3. Programming Language and Applications (ACtE03) Link: "Just Type CodeWithHarry or any other Youtube"
 
     3.1 C Programming:
 
@@ -144,7 +144,7 @@ Chapters 1–4: Fundamentals/Principles
 
         Try/catch/throw, multiple & rethrown exceptions
 
-4. Computer Organization & Embedded Systems (ACtE04)
+4. Computer Organization & Embedded Systems (ACtE04) Link: "https://www.youtube.com/playlist?list=PLBlnK6fEyqRgLLlzdgiTUKULKJqC2rB6D"
 
     4.1 CPU & Control Units:
 
@@ -174,7 +174,7 @@ Chapters 1–4: Fundamentals/Principles
    
 Chapters 5–9: Engineering Application
 
-5. Concept of Computer Network and Network Security System (ACtE05)
+5. Concept of Computer Network and Network Security System (ACtE05) Link: "https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME"
 
     5.1 Introduction to Computer Networks and Physical Layer (ACtE0501):
 
@@ -278,7 +278,7 @@ Chapters 5–9: Engineering Application
 
         Firewalls
 
-6. Electromagnetic and Communication System (AEiE06)
+6. Electromagnetic and Communication System (AEiE06) Link: "1. MeroSchool Vids for EM and 2. Notes that passes You the semester Exam"
 
     6.1 Electric Field and Magnetic Field (AEiE0601):
 
@@ -330,7 +330,7 @@ Chapters 5–9: Engineering Application
 
         AM, FM, PM Signals (Time and Frequency Domain)
 
-    6.4 Data Communication and Information Theory (AEiE0604):
+    6.4 Data Communication and Information Theory (AEiE0604) Link: "https://www.youtube.com/playlist?list=PLGHxjDrFVdm6jaoGdHk-wcfLjLMuHZW-u":
 
         Analog to Digital conversion, Source coding
 
@@ -372,7 +372,7 @@ Chapters 5–9: Engineering Application
 
         FIR Filter Design (Window Method, Fourier Method)
 
-7. Data Structures, Database and Operating System (AEiE07)
+7. Data Structures, Database and Operating System (AEiE07) Link: "Abdul Bari or FreeCodeCamp"
 
     7.1 Data Structure and Algorithm (AEiE0701):
 
@@ -412,7 +412,7 @@ Chapters 5–9: Engineering Application
 
         SQL: DDL, DML, Views
 
-    7.4 Transaction Processing and Concurrency (AEiE0704):
+    7.4 Transaction Processing and Concurrency (AEiE0704) Link: "https://www.youtube.com/watch?v=5yJ0fZKPCXc":
 
         ACID Properties
 
@@ -422,7 +422,7 @@ Chapters 5–9: Engineering Application
 
         Failure Recovery, Log-based Recovery
 
-    7.5 Operating System and Process Management (AEiE0705):
+    7.5 Operating System and Process Management (AEiE0705) Link: "https://www.youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ":
 
         OS Evolution, Types, Components, Structure
 
@@ -432,7 +432,7 @@ Chapters 5–9: Engineering Application
 
         Concurrency Issues (Race Condition, Mutual Exclusion)
 
-    7.6 Memory Management, File Systems (AEiE0706):
+    7.6 Memory Management, File Systems (AEiE0706) Link: "https://www.youtube.com/watch?v=VpNRtCtf5jo", "https://www.youtube.com/watch?v=CDQxzHdi4Xs":
 
         Addressing, Swapping, Virtual Memory
 
@@ -442,7 +442,7 @@ Chapters 5–9: Engineering Application
 
         System Administration, User Management
 
-8. Theory of Computation and Computer Graphics (AEiE08)
+8. Theory of Computation and Computer Graphics (AEiE08) Link: "https://www.youtube.com/playlist?list=PLbMVogVj5nJS5s4C7rx08OBN05rzNf5Z3", "https://www.youtube.com/watch?v=5vja1w2FFZ4&list=PLBlnK6fEyqRgL3jL4x3cdgY6K0p7e7vB-"
 
     8.1 Finite Automata (AEiE0801):
 
@@ -504,7 +504,7 @@ Chapters 5–9: Engineering Application
 
         Projections: Orthographic, Parallel, Perspective
 
-9. Telecommunication and Soft Switching (AEiE09)
+9. Telecommunication and Soft Switching (AEiE09) Link: "https://www.youtube.com/playlist?list=PLiAbCF-H83sY-0DdtEiB352HjOlQ1_SnI"
 
     9.1 Telecommunication and Wireless Communication (AEiE0901):
 
@@ -573,7 +573,7 @@ Chapter 10: Project Planning, Design, Implementation
 
 10. Project Planning, Design and Implementation (AALL10)
 
-    10.1 Engineering Drawings and Its Concepts (AALL1001):
+    10.1 Engineering Drawings and Its Concepts (AALL1001) Link: "https://www.youtube.com/watch?v=OxU7Dqk3n2o":
 
         Fundamentals of standard drawing sheets
 
@@ -589,7 +589,7 @@ Chapter 10: Project Planning, Design, Implementation
 
         Sectional drawing
 
-    10.2 Engineering Economics (AALL1002):
+    10.2 Engineering Economics (AALL1002) Link: "https://www.youtube.com/watch?v=91Ip_hm2R_M":
 
         Understanding project cash flow
 
@@ -605,7 +605,7 @@ Chapter 10: Project Planning, Design, Implementation
 
         Taxation system in Nepal
 
-    10.3 Project Planning and Scheduling (AALL1003):
+    10.3 Project Planning and Scheduling (AALL1003) Link: "https://www.youtube.com/watch?v=6fN-Vz9zGdc":
 
         Project classifications
 
@@ -619,7 +619,7 @@ Chapter 10: Project Planning, Design, Implementation
 
         Monitoring, evaluation, and controlling
 
-    10.4 Project Management (AALL1004):
+    10.4 Project Management (AALL1004) Link: "https://www.youtube.com/watch?v=vPOCPJx6kIE":
 
         Project Information Systems
 
@@ -631,7 +631,7 @@ Chapter 10: Project Planning, Design, Implementation
 
         Contract management
 
-    10.5 Engineering Professional Practice (AALL1005):
+    10.5 Engineering Professional Practice (AALL1005) Link: "https://www.youtube.com/watch?v=SYXmTvxnzVg":
 
         Engineers’ role in Environment and Society
 
@@ -645,7 +645,7 @@ Chapter 10: Project Planning, Design, Implementation
 
         Roles and responsibilities of the Nepal Engineers Association (NEA)
 
-    10.6 Engineering Regulatory Body (AALL1006):
+    10.6 Engineering Regulatory Body (AALL1006) Link: "https://www.youtube.com/c/NepalEngineeringCouncil":
 
         Nepal Engineering Council
 
