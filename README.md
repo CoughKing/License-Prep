@@ -568,7 +568,9 @@ Chapters 5–9: Engineering Application
 
         Mobile VoIP, DSL, xDSL Tree
 
+
 Chapter 10: Project Planning, Design, Implementation
+
 10. Project Planning, Design and Implementation (AALL10)
 
     10.1 Engineering Drawings and Its Concepts (AALL1001):
