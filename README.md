@@ -1,4 +1,4 @@
-#Syllabus
+# Syllabus
 ---
 Nepal Engineering Council Registration Examination
 Electronics, Communication and Information Engineering (Code: AEiE)
@@ -653,4 +653,293 @@ Chapter 10: Project Planning, Design, Implementation
 
     
 ---
-#Youtube Links With Syllabus
+# Youtube Links With Syllabus
+---
+1. Basic Electrical and Electronics Engineering (AExE01)
+
+Hindi Playlist:
+
+    Electrical Engineering Basics in Hindi | Electrical Technology
+    Covers Ohm’s Law, circuits, network theorems, AC fundamentals, semiconductors, amplifiers.
+
+Specific videos:
+
+    Ohm's Law & Basic Electrical Concepts (Hindi): Watch here
+
+    Series & Parallel Circuits Explained (Hindi): Watch here
+
+    Kirchhoff’s Laws Tutorial (Hindi): Watch here
+
+    Thevenin & Norton Theorem (Hindi): Watch here
+
+    Semiconductor Diode and Transistor Basics (Hindi): Watch here
+
+    Introduction to MOSFET (Hindi): Watch here
+
+    Amplifiers Basics (Hindi): Watch here
+
+2. Digital Logic and Microprocessor (AExE02)
+
+Hindi Playlist:
+
+    Digital Electronics Full Course in Hindi
+    Covers number systems, logic gates, boolean algebra, combinational and sequential circuits, microprocessor basics.
+
+Specific videos:
+
+    Number Systems & Logic Gates (Hindi): Watch here
+
+    Boolean Algebra & Simplification Methods (Hindi): Watch here
+
+    Multiplexers, Demultiplexers & Encoders (Hindi): Watch here
+
+    Flip Flops & Registers (Hindi): Watch here
+
+    Microprocessor Introduction (Hindi): Watch here
+
+    Assembly Language Basics (Hindi): Watch here
+
+3. Programming Language and Its Applications (ACtE03)
+C Programming
+
+Hindi Playlist:
+
+    C Programming Full Course in Hindi by CodeWithHarry
+    Covers C tokens, loops, functions, arrays, pointers, files, structures.
+
+Key videos:
+
+    Introduction to C Programming (Hindi): Watch here
+
+    Pointers & Arrays in C (Hindi): Watch here
+
+    File Handling in C (Hindi): Watch here
+
+C++ Programming
+
+Hindi Playlist:
+
+    C++ Programming in Hindi | Tutorials by CodeWithHarry (Also covers C++ basics)
+
+    C++ OOP Full Course in Hindi
+
+Key videos:
+
+    Introduction to OOP in C++ (Hindi): Watch here
+
+    Constructors and Destructors in C++ (Hindi): Watch here
+
+    Operator Overloading (Hindi): Watch here
+
+    File Handling and Exception Handling in C++ (Hindi): Watch here
+
+    Templates and Generic Programming (English, high quality): Watch here
+
+4. Computer Organization and Embedded System (ACtE04)
+
+Hindi Playlist:
+
+    Computer Organization Full Course in Hindi (Gate Lectures by Ravindrababu Ravula)
+    Covers CPU structure, memory hierarchy, I/O organization, embedded systems, VHDL basics.
+
+Key videos:
+
+    Control Unit & CPU Basics (Hindi): Watch here
+
+    Memory Hierarchy & Cache (Hindi): Watch here
+
+    Input-Output Organization (Hindi): Watch here
+
+    Introduction to Embedded Systems (Hindi): Watch here
+
+    VHDL Basics (English, best available): Watch here
+
+5. Concept of Computer Network and Network Security System (ACtE05)
+
+Hindi Playlist:
+
+    Computer Networks Full Course in Hindi by Gate Lectures by Ravindrababu Ravula
+    Covers OSI model, TCP/IP, data link, network layer, transport layer, application layer, network security.
+
+Key videos:
+
+    OSI and TCP/IP Model Explained (Hindi): Watch here
+
+    Ethernet, LAN Protocols (Hindi): Watch here
+
+    Routing Protocols (Hindi): Watch here
+
+    TCP, UDP and Transport Layer (Hindi): Watch here
+
+    Network Security Basics (Hindi): Watch here
+    
+6. Electromagnetic and Communication System (AEiE06)
+6.1 Electric and Magnetic Fields
+
+    (Hindi) “Electric Field, Electric Flux Density | Basic Electrostatics | Physics”
+    Electric Field Hindi
+
+    (Hindi) “Magnetic Field and Magnetic Flux | Basic Concepts | Physics”
+    Magnetic Field Hindi
+
+6.2 Wave Propagation and Antennas
+
+    (Hindi) “Maxwell’s Equations | Electromagnetic Waves | Communication”
+    Maxwell’s Equations Hindi
+
+    (Hindi) “Antenna Basics | Types of Antennas | Communication”
+    Antenna Basics Hindi
+
+6.3 Analog and Digital Communication
+
+    (Hindi) “AM, FM Modulation Basics | Communication Systems”
+    AM/FM Modulation Hindi
+
+6.4 Data Communication and Information Theory
+
+    (Hindi) “Pulse Code Modulation (PCM) | Data Communication”
+    PCM Hindi
+
+    (Hindi) “Shannon Hartley Theorem | Channel Capacity | Info Theory”
+    Shannon Hartley Theorem Hindi
+
+6.5 Signals and Systems
+
+    (Hindi) “Signals and Systems Basics | Fourier Transform | Laplace”
+    Signals & Systems Hindi
+
+6.6 Digital Signal Processing
+
+    (Hindi) “Z-transform | DSP Basics | Digital Signal Processing”
+    Z-transform Hindi
+
+    (Hindi) “FIR & IIR Filter Design | DSP | Digital Filters”
+    DSP Filter Design Hindi
+
+🗃 7. Data Structures, Databases and OS (AEiE07)
+7.1 Data Structures and Algorithms
+
+    (Hindi) “Data Structures Full Course | Stack, Queue, Linked List”
+    DS Full Course Hindi
+
+7.2 Sorting, Searching, Graphs
+
+    (Hindi) “Sorting Algorithms Explained | Hindi”
+    Sorting Algorithms Hindi
+
+    (Hindi) “Graph Theory Basics | BFS, DFS | Shortest Path”
+    Graph Algorithms Hindi
+
+7.3 Database Modeling
+
+    (Hindi) “ER Model and Normalization | Database Design”
+    ER Model Hindi
+
+7.4 Transaction Processing and Concurrency
+
+    (Hindi) “ACID Properties in DBMS | Transaction Management”
+    ACID Properties Hindi
+
+7.5 Operating System and Process Management
+
+    (Hindi) “Operating System Basics | Process & Thread Management”
+    OS Basics Hindi
+
+7.6 Memory Management and File Systems
+
+    (Hindi) “Virtual Memory, Paging & File Systems | OS Concepts”
+    Memory Management Hindi
+
+8. Theory of Computation and Computer Graphics (AEiE08)
+8.1 Finite Automata
+
+    (Hindi) “Finite Automata | Automata Theory Basics”
+    Finite Automata Hindi
+
+8.2 Context-Free Grammar
+
+    (Hindi) “Context Free Grammar and Parse Trees”
+    CFG Hindi
+
+8.3 Turing Machine
+
+    (Hindi) “Turing Machine Basics | Computability Theory”
+    Turing Machine Hindi
+
+8.4 Computer Graphics Hardware and Software
+
+    (Hindi) “Computer Graphics Fundamentals”
+    Graphics Basics Hindi
+
+8.5 2D Transformations and Viewing
+
+    (Hindi) “2D Transformations in Computer Graphics”
+    2D Transformations Hindi
+
+8.6 3D Transformations and Projection
+
+    (Hindi) “3D Transformations & Projection in CG”
+    3D Transformations Hindi
+
+9. Telecommunication and Soft Switching (AEiE09)
+9.1 Telecommunication & Wireless Fundamentals
+
+    (Hindi) “Telecommunication Basics | Wireless Communication”
+    Telecom Basics Hindi
+
+9.2 Equalization and Diversity Techniques
+
+    (Hindi) “Diversity Techniques in Wireless | Hindi”
+    Diversity Techniques Hindi
+
+9.3 Switching Systems and Traffic Engineering
+
+    (Hindi) “Switching Systems Explained | Traffic Engineering”
+    Switching Systems Hindi
+
+9.4 Data Communication Switching Techniques
+
+    (Hindi) “Packet Switching vs Circuit Switching | Networking”
+    Switching Techniques Hindi
+
+9.5 IP Switching
+
+    (Hindi) “IP Switching Explained | Networking Tutorial”
+    IP Switching Hindi
+
+9.6 Soft Switching
+
+    (Hindi) “Softswitch Architecture and VoIP | Telecom”
+    Softswitch Hindi
+
+10. Project Planning, Design and Implementation (AALL10)
+10.1 Engineering Drawings
+
+    (Hindi) “Engineering Drawing Basics | Orthographic & Isometric Views”
+    Engineering Drawing Hindi
+
+10.2 Engineering Economics
+
+    (Hindi) “Engineering Economics Basics | NPV, IRR, Payback Period”
+    Engineering Economics Hindi
+
+10.3 Project Planning and Scheduling
+
+    (Hindi) “Project Management Basics | CPM & PERT Techniques”
+    Project Planning Hindi
+
+10.4 Project Management
+
+    (Hindi) “Project Risk Management | Tender Process”
+    Project Risk Management Hindi
+
+10.5 Engineering Professional Practice
+
+    (Hindi) “Professional Ethics & Environmental Issues in Engineering”
+    Professional Ethics Hindi
+
+10.6 Engineering Regulatory Bodies
+
+    (Hindi) “Nepal Engineering Council Overview | Acts & Regulations” (Limited Hindi content; refer to English if needed)
+    Nepal Engineering Council Info
+---
